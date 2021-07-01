@@ -54,7 +54,7 @@
   "dependencies": {
     "@c4312/chromehash": "^0.2.0",
     "acorn": "^8.0.4",
-    "acorn-loose": "^8.0.0",
+    "acorn-loose": "^8.1.0",
     "astring": "^1.7.1",
     "color": "^3.1.2",
     "data-uri-to-buffer": "^3.0.1",
