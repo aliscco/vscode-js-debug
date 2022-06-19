@@ -62,7 +62,7 @@
     "estraverse": "^5.2.0",
     "execa": "^4.0.0",
     "glob-stream": "^6.1.0",
-    "got": "^11.5.1",
+    "got": "^11.8.5",
     "inversify": "^5.0.1",
     "js-xxhash": "^1.0.4",
     "jsonc-parser": "^2.2.1",
