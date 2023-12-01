@@ -61,7 +61,7 @@
     "default-browser": "^2.0.1",
     "estraverse": "^5.2.0",
     "execa": "^4.0.0",
-    "glob-stream": "^6.1.0",
+    "glob-stream": "^8.0.0",
     "got": "^11.5.1",
     "inversify": "^5.0.1",
     "js-xxhash": "^1.0.4",
