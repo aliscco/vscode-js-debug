@@ -136,7 +136,7 @@
     "eslint-plugin-react": "^7.21.3",
     "express": "^4.17.1",
     "glob": "^7.1.6",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-filter": "^6.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.0.0",
