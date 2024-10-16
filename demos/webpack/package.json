@@ -4,8 +4,8 @@
     "compile-web": "webpack --config webpack.web.js"
   },
   "devDependencies": {
-    "serve": "^11.2.0",
-    "webpack": "^4.41.3",
+    "serve": "^14.2.4",
+    "webpack": "^5.0.0",
     "webpack-cli": "^3.3.9"
   }
 }
